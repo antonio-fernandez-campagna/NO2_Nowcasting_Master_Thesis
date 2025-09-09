@@ -1,0 +1,18 @@
+# Bayesian Deep Learning Dependencies for NO2 Nowcasting
+# Core ML libraries
+tensorflow>=2.13.0
+tensorflow-probability>=0.21.0
+
+# Data science and visualization
+numpy>=1.21.0
+pandas>=1.3.0
+scikit-learn>=1.0.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+plotly>=5.0.0
+
+# Streamlit and web interface
+streamlit>=1.28.0
+
+# Other utilities
+joblib>=1.1.0 
